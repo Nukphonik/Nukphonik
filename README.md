@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nuke Phonk
 - 👀 I’m interested in Neural Networks and Deep Learning algorithms
 - 🌱 I’m currently learning C# and Xamarin to follow.
-- 💞️ I’m not much of a collaborator, as I am not custom to it. I would like to though with the right kind of communication for me ...
+- 💞️ I’m not much of a collaborator, I would like to though,
+-  as it is important in the larger picture.
 - 📫 How to reach me nukphonik@gmail.com
 
 <!---
