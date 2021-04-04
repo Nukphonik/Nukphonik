@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nuke Phonk
+- 👋 Hi, I’m Nuke Phonik
 - 👀 I’m interested in Neural Networks and Deep Learning algorithms
 - 🌱 I’m currently learning C# and Xamarin to follow.
 - 💞️ I’m not much of a collaborator, I would like to though,
